@@ -1,5 +1,7 @@
 ## How to make an amazing Paper Aiplane!
 
+**Overview**
+
 Today you will learn how to make an easy, yet great paper airplane design called the dart. This style of paper airplane is a classic design that also puts in great distance if folded properly and accurately. There are hundreds of other style to choose from, but the dart has the most simplistic design and is best for begineers. You can research and make all the other desgins by clicking this link:
 https://foldnfly.com/#/1-1-1-1-1-1-1-1-2
 
@@ -25,32 +27,3 @@ Now that the paper has been folded in half, take the top edge on one side and fo
 ![Step 5.](Screen Shot 2020-10-02 at 4.31.59 PM.png)
 
 Flip the paper over and fold the other side to the paper is symetrical. Lastly, open the wings and grip the bottom of the plane, and then throw your airplane as hard as you can!
-
-
-```markdown
-Syntax highlighted code block
-
-#**Header 1**
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/veer-adhvaryu/paperairplanes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
