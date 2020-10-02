@@ -11,18 +11,18 @@ You will need a normal-sized 8.5" by 11" paper and the first step would be to fo
 
 Next, take both top edges of the page and fold them inward so that the meet at the middle line created. Your paper should now look like a square with a triangle on top. 
 
-![Image](src)
+![Image](Screen Shot 2020-10-02 at 4.30.49 PM.png)
 
 Once this happens, take the new edge created on either side of the page and fold them into the middle once again, making the page look like a long triangle.
 
-![Image](src)
+![Image](Screen Shot 2020-10-02 at 4.31.20 PM.png)
 
 Then, fold the paper in half vertically on the same line we initially made. 
 
-![Image](src)
+![Image](Screen Shot 2020-10-02 at 4.31.43 PM.png)
 
 Now that the paper has been folded in half, take the top edge on one side and fold it down, creating one of the wings. 
-![Image](src)
+![Image](Screen Shot 2020-10-02 at 4.31.59 PM.png)
 
 Flip the paper over and fold the other side to the paper is symetrical. Lastly, open the wings and grip the bottom of the plane, and then throw your airplane as hard as you can!
 
