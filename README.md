@@ -6,7 +6,7 @@ Today you will learn how to make an easy, yet great paper airplane design called
 
 [More Intructions] (https://foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 
-**nstructions**
+**Instructions**
 
 You will need a normal-sized 8.5" by 11" paper and the first step would be to fold it in half vertically, and then open it again so that a vetical line forms down the middle of the page. 
 
