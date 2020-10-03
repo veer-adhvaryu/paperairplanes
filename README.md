@@ -4,7 +4,7 @@
 
 Today you will learn how to make an easy, yet great paper airplane design called the dart. This style of paper airplane is a classic design that also puts in great distance if folded properly and accurately. There are hundreds of other style to choose from, but the dart has the most simplistic design and is best for begineers. You can research and make all the other desgins by clicking this link:
 
-[More Intructions:](https://foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+[More Intructions](https://foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 
 **Instructions**
 
